@@ -93,11 +93,11 @@ let puzzleSpecs = [
 		hintSpec: {coord: [2, 3], direction:"u"},
 		solutionSpec: [3, 3, 1, 3, 3, 1, 3, 4, 2]
 	},
-
+*/
 	// Q EASY
 	{
 		number: 2,
-		publishedOn: "dd Mmm 24",
+		publishedOn: "14 Jun 24",
 		dispenserSpec: [undefined, "SUud", "D", "dueW"],
 		mapSpec: [[1,1,1,1,1,1,1],
 				  [1,0,3,1,0,0,1],
@@ -107,10 +107,9 @@ let puzzleSpecs = [
 				  [1,0,0,0,0,0,1],
 				  [1,1,1,1,1,1,1]
 				 ], 
-		hintSpec: {coord: [2, 3], direction:"u"},
+		hintSpec: {coord: [3, 2], direction:"u"},
 		solutionSpec: [3, 1, 2, 3, 3, 3, 1, 1, 1]
-	},
-*/	
+	},	
 	{
 		number: 1,
 		publishedOn: "7 Jun 24",
