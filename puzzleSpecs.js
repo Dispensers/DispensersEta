@@ -60,11 +60,10 @@ let puzzleSpecs = [
 		hintSpec: {coord: [2, 3], direction:"u"},
 		solutionSpec: [2, 2, 3, 1, 5, 3, 1, 1, 4]
 	},
-	
-	// ?
+*/	
 	{
 		number: 4,
-		solveBy: "20 Feb",
+		publishedOn: "28 Jun 24",
 		dispenserSpec: [undefined, "eue", "ddD", "W", "uUd"],
 		mapSpec: [[1,1,1,1,1,1,1,1,1],
 				  [1,0,0,0,0,0,1,1,1],
@@ -73,10 +72,9 @@ let puzzleSpecs = [
 				  [1,0,0,0,0,0,0,2,1],
 				  [1,1,1,1,1,1,1,1,1]
 				 ], 
-		hintSpec: {coord: [3, 3], direction:"u"},
+		hintSpec: {coord: [3, 6], direction:"d"},
 		solutionSpec: [2, 1, 1, 4, 1, 4, 4, 2, 3, 2]
-	},
-*/	
+	},	
 	{
 		number: 3,
 		publishedOn: "21 Jun 24",
