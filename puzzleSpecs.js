@@ -45,11 +45,11 @@ let puzzleSpecs = [
 		hintSpec: {coord: [4, 3], direction:"e"},
 		solutionSpec: [3, 3, 1, 3, 2, 2, 2, 2, 1]
 	},
-	
+*/	
 	// GOOD 6.20
 	{
 		number: 5,
-		publishedOn: "dd Mmm 24",
+		publishedOn: "5 Jul 24",
 		dispenserSpec: [undefined, "due", "du", "eu", "N", "D"],
 		mapSpec: [[1,1,1,1,1,1,1,1,1],
 				  [1,0,0,1,0,0,0,2,1],
@@ -59,8 +59,7 @@ let puzzleSpecs = [
 				 ], 
 		hintSpec: {coord: [2, 3], direction:"u"},
 		solutionSpec: [2, 2, 3, 1, 5, 3, 1, 1, 4]
-	},
-*/	
+	},	
 	{
 		number: 4,
 		publishedOn: "28 Jun 24",
