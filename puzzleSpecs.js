@@ -29,11 +29,10 @@ let puzzleSpecs = [
 		hintSpec: {coord: [2, 3], direction:"u"},
 		solutionSpec: [1, 1, 1, 1, 2, 2, 2, 4, 3, 3]
 	},
-
-	// ?
+*/
 	{
 		number: 6,
-		solveBy: "20 Feb",
+		publishedOn: "12 Jul 24",
 		dispenserSpec: [undefined, "NWS", "WUDU", "SeD"],
 		mapSpec: [[1,1,1,1,1,1,1,1],
 				  [1,0,1,0,0,0,3,1],
@@ -42,11 +41,9 @@ let puzzleSpecs = [
 				  [1,0,0,1,0,0,0,1],
 				  [1,1,1,1,1,1,1,1]
 				 ], 
-		hintSpec: {coord: [4, 3], direction:"e"},
+		hintSpec: {coord: [3, 2], direction:"W"},
 		solutionSpec: [3, 3, 1, 3, 2, 2, 2, 2, 1]
 	},
-*/	
-	// GOOD 6.20
 	{
 		number: 5,
 		publishedOn: "5 Jul 24",
