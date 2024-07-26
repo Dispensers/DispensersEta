@@ -1,9 +1,7 @@
 let puzzleSpecs = [
-/*
-	// 13.30
 	{
 		number: 8,
-		solveBy: "20 Feb",
+		publishedOn: "26 Jul 24",
 		dispenserSpec: [undefined, "d", "eue", "d", "euuSN", "d"],
 		mapSpec: [[1,1,1,1,1,1,1,1,1,1],
 				  [1,0,0,0,1,0,0,0,0,1],
@@ -11,10 +9,9 @@ let puzzleSpecs = [
 				  [1,0,0,1,0,0,0,0,0,1],
 				  [1,1,1,1,1,1,1,1,1,1]
 				 ],
-		hintSpec: {coord: [4, 3], direction:"e"},
+		hintSpec: {coord: [2, 2], direction:"S"},
 		solutionSpec: [4, 1, 4, 4, 3, 4, 5, 2, 2]
 	},
-*/
 	{
 		number: 7,
 		publishedOn: "19 Jul 24",
